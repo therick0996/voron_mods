@@ -1,9 +1,9 @@
-# Thicc skirts for Voron V2
-Extended skirts to look nicer and make the screen more readable with the [awesome Clicky Clack door mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
+# Thicc skirts for Voron V2 (and probably Trident)
+Extended skirts to look nicer and make the screen more readable with the [awesome Clicky Clack door mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), while not replacing any important bits (like z belt drives).
 
-There are versions for 300mm and 350mm V2s
+There are versions for [300mm](https://github.com/therick0996/voron_mods/tree/main/thicc_skirts/300mm) and [350mm](https://github.com/therick0996/voron_mods/tree/main/thicc_skirts/350mm) V2s.
 
-To save material and not require supports, the new skirts attach to small "brackets" attached to the original extrusion.
+To save material and not require supports, the new skirts attach to small "brackets", which are attached to the original extrusion.
 
 ## BOM
 
@@ -16,17 +16,15 @@ To save material and not require supports, the new skirts attach to small "brack
 
 Parts should be oriented correctly in the STLs. No need for standard Voron settings, as these are non-functional parts. I used 5 top and bottom layers, 4 walls, 15% infill
 
+![front](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/front.jpg)
+![rear](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/rear.jpg)
+![bottom](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/bottom.jpg)
+
 ## Glamour Shots
 
-![alt text](./images/IMG_3459.jpg)
+![door closed](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/door_closed.JPG)
 
-![alt text](./images/IMG_3460.jpg)
+![door open](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/door_open.JPG)
 
-![alt text](./images/IMG_3463.jpg)
-
-![alt text](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/IMG_3459.JPG)
-
-![alt text](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/IMG_3460.JPG)
-
-![alt text](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/IMG_3463.JPG)
+![side view](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/side_view.JPG)
 
