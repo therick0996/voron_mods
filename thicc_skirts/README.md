@@ -1,4 +1,4 @@
-# Thicc skirts for Voron V2
+# Thicc skirts for Voron V2 (and probably Trident)
 Extended skirts to look nicer and make the screen more readable with the [awesome Clicky Clack door mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), while not replacing any important bits (like z belt drives).
 
 There are versions for [300mm](https://github.com/therick0996/voron_mods/tree/main/thicc_skirts/300mm) and [350mm](https://github.com/therick0996/voron_mods/tree/main/thicc_skirts/350mm) V2s.
