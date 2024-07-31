@@ -3,7 +3,7 @@ Extended skirts to look nicer and make the screen more readable with the [awesom
 
 There are versions for 300mm and 350mm V2s
 
-To save material and not require supports, the new skirts attach to small "brackets" attached to the original extrusion.
+To save material and not require supports, the new skirts attach to small "brackets", which are attached to the original extrusion.
 
 ## BOM
 
