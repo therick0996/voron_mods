@@ -18,11 +18,11 @@ Parts should be oriented correctly in the STLs. No need for standard Voron setti
 
 ## Glamour Shots
 
-<img src="./images/IMG_3459.jpg" width=800>
+![alt text](./images/IMG_3459.jpg)
 
-<img src="./images/IMG_3460.jpg" width=800>
+![alt text](./images/IMG_3460.jpg)
 
-<img src="./images/IMG_3463.jpg" width=800>
+![alt text](./images/IMG_3463.jpg)
 
 ![alt text](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/IMG_3459.JPG)
 
