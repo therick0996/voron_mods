@@ -1,4 +1,4 @@
-# EBB36 WWG2 mount for PUG
+# NH36/EBB36 WWG2 mount for PUG
 
 I find [PUG](https://www.printables.com/model/378567-pug-parametric-umbilical-gland) to be far superior to PG7 mounts, so made this guy.
 
