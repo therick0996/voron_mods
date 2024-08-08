@@ -4,7 +4,7 @@ I find [PUG](https://www.printables.com/model/378567-pug-parametric-umbilical-gl
 
 Additionally, the NH36 connector sticks up really high, so this also lowers the cable a bit. 
 
-This is based of [tetsu and Thor's existing canboard mounts](https://github.com/tetsu97/WristWatch-G2-Extruder/blob/main/CAD/WWG2_canboard_mounts.step)
+This is based off [tetsu and Thor's existing canboard mounts](https://github.com/tetsu97/WristWatch-G2-Extruder/blob/main/CAD/WWG2_canboard_mounts.step)
 
 To be used with [WristWatch G2](https://github.com/tetsu97/WristWatch-G2-Extruder/tree/main)
 
