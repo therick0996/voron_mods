@@ -13,7 +13,7 @@ To be used with [WristWatch G2](https://github.com/tetsu97/WristWatch-G2-Extrude
 | **Item**                     | **Qty**    |
 | ---------------------------- | ---------- |
 | **M3x5x4 Heatset Insert**    | **4**      |
-| **M3x8 SHCS**                | **5**      | 
+| **M3x8 SHCS**                | **7**      | 
 | **M3x35 SHCS**               | **1**      | 
 | **20mm standoffs**           | **2**      | 
 
