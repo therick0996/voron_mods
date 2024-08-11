@@ -16,15 +16,16 @@ To save material and not require supports, the new skirts attach to small "brack
 
 Parts should be oriented correctly in the STLs. No need for standard Voron settings, as these are non-functional parts. I used 5 top and bottom layers, 4 walls, 15% infill
 
-![front](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/front.png)
-![rear](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/rear.png)
-![bottom](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/bottom.jpg)
+![front](./images/front.png)
+
+![rear](./images/rear.png)
+
+![bottom](./images/bottom.jpg)
 
 ## Glamour Shots
 
-![door closed](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/door_closed.JPG)
+![door_closed](./images/door_closed.JPG)
 
-![door open](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/door_open.JPG)
+![open](./images/door_open.JPG)
 
-![side view](https://github.com/therick0996/voron_mods/blob/main/thicc_skirts/images/side_view.JPG)
-
+![side_view](./images/side_view.JPG)
