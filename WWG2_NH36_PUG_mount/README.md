@@ -23,11 +23,14 @@ Parts should be oriented correctly in the STLs. Standard Voron settings
 
 The 3mm spacers are meant to be threaded into to act as captive screws
 
-![front](https://github.com/therick0996/voron_mods/blob/main/WWG2_NH36_PUG_mount/images/front.png)
-![rear](https://github.com/therick0996/voron_mods/blob/main/WWG2_NH36_PUG_mount/images/rear.png)
-![with xol](https://github.com/therick0996/voron_mods/blob/main/WWG2_NH36_PUG_mount/images/with_xol.png)
+![front](./images/front.png)
+
+![rear](./images/rear.png)
+
+![with_xol](./images/with_xol.png)
+
 
 ## Glamour Shots
 
-![IRL](https://github.com/therick0996/voron_mods/blob/main/WWG2_NH36_PUG_mount/images/actual.jpg)
+![IRL](./images/actual.jpg)
 
