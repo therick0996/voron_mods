@@ -15,8 +15,8 @@ add images of how to assemble
 | **M3x8 SHCS**                      | **2**      | 
 | **M3x10 SHCS**                     | **4**      | 
 | **M5x20 BHCS**                     | **2**      | 
-| **M5 T-Nuts**        j             | **2**      |
-| **3mm Foam Tape (doubled up)**     | **approx 600mm** | 
+| **M5 T-Nuts**                      | **2**      |
+| **3mm Foam Tape**                  | **approx 300mm** | 
 
 ## Printing
 
