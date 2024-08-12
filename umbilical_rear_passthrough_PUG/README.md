@@ -1,8 +1,11 @@
-# WWG2 NH36/EBB36 mount for PUG
+# Umbilical Rear Passthrough for PUG
 
 I find [PUG](https://www.printables.com/model/378567-pug-parametric-umbilical-gland) to be far superior to PG7 mounts
 
-This is based off [whopping's PG7 passthrough](https://github.com/tanaes/whopping_Voron_mods/tree/main/umbilical_passthrough)
+This is based off [whopping's PG7 passthrough](https://github.com/tanaes/whopping_Voron_mods/tree/main/umbilical_passthrough), which in turn is based off the [Back plate blanking plate ](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/richardjm/back-plate) by the legendary Richardjm
+
+### To do
+add images of how to assemble
 
 ## BOM
 
