@@ -9,14 +9,14 @@ add images of how to assemble
 
 ## BOM
 
-| **Item**                     | **Qty**    |
-| ---------------------------- | ---------- |
-| **M3x5x4 Heatset Insert**    | **6**      |
-| **M3x8 SHCS**                | **2**      | 
-| **M3x10 SHCS**               | **4**      | 
-| **M5x20 BHCS**               | **2**      | 
-| **M5 T-Nuts**                  | **2**      |
-| **3mm Foam Tape**            | **approx 300mm** | 
+| **Item**                           | **Qty**    |
+| ---------------------------------- | ---------- |
+| **M3x5x4 Heatset Insert**          | **6**      |
+| **M3x8 SHCS**                      | **2**      | 
+| **M3x10 SHCS**                     | **4**      | 
+| **M5x20 BHCS**                     | **2**      | 
+| **M5 T-Nuts**        j             | **2**      |
+| **3mm Foam Tape (doubled up)**     | **approx 600mm** | 
 
 ## Printing
 
